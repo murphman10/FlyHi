@@ -1,8 +1,18 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![alt text](https://github.com/murphman10/FlyHi/blob/main/FlyHi-Logo.png)
+# FlyHi
+Simple flight application for a daily commuter. 
+FlyHi is the one stop application for frequent flyers, offering great features such as:
+- Flight Access
+- Delayed Flight Tracking
+- Flight and Car rental packages
+- Miles rewards
+- Hotel Suggestions
+- Tech Support
+_______________________________________________________________________________________________
+# The Team
+Tim Chen - BA/DEV<br />
+Anitha Gollapudi - DEV<br /> 
+Sairahul Kilambi - SM/DEV<br />
+Gurmanjot Singh - BA<br />
+Rabia Farhana - BA<br />
+Asa Murphy - DEV<br />
