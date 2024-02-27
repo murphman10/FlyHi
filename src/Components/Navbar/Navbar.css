@@ -1,0 +1,12 @@
+.navbar{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #fff;
+}
+
+.title{
+
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
