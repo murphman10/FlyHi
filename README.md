@@ -8,3 +8,11 @@ FlyHi is the one stop application for frequent flyers, offering great features s
 - Miles rewards
 - Hotel Suggestions
 - Tech Support
+_______________________________________________________________________________________________
+# The Team
+Tim Chen - BA/DEV
+Anitha Gollapudi - DEV
+Sairahul Kilambi - SM/DEV
+Gurmanjot Singh - BA
+Rabia Farhana - ??
+Asa Murphy - DEV
