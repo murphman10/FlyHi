@@ -5,8 +5,23 @@
     justify-content: space-between;
     background: #fff;
 }
+.logo{
+    cursor: pointer;
+}
 
-.title{
+ul{
+    flex: 1;
+    list-style: none;
+    text-align: center;
+}
 
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ul li{
+    display: inline-block;
+    margin: 10px 20px; 
+    font-size: 30px;
+    font:'Segoe UI';
+    cursor: pointer;
+}
+.options{
+    font-family:'Segoe UI';
 }
